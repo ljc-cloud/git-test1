@@ -1,10 +1,6 @@
 hello, Git!  master test
 hello, Git!  
 hello, Git!
-hello, Git!  
-hello, Git!
-hello, Git!
-hello, Git!
 hello, Git!  3333333
 hello, Git!  3333333
 hello, Git!  3333333
